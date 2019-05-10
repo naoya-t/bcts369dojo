@@ -24,7 +24,7 @@ func main(){
 
 func (c * Comment)GetComment()(comment string){
     comment = " some comment "
-     return
+    return
 }
 ```
 ***
