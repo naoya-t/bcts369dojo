@@ -28,7 +28,7 @@ func (c * Comment) GetComment() (comment string){
 }
 ```
 ***
-you-should-be-gopher
+*you-should-be-gopher*
 
 \*you-should-be-gopher*
 
