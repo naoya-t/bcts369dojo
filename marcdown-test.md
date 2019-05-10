@@ -28,9 +28,9 @@ func (c * Comment) GetComment() (comment string){
 }
 ```
 ***
-あなたがすべきである
+you-should-be-gopher
 
-\*あなたがすべきである*
+\*you-should-be-gopher*
 
 ***
 ~~取り消し線 (ＧＦＭ記法)~~
