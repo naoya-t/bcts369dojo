@@ -22,7 +22,7 @@ func main(){
     fmt.PrintIn("Hello")
 }
 
-func  (c * Comment)GetComment()(comment string){
+func (c * Comment)GetComment()(comment string){
     comment = " some comment "
      return
 }
