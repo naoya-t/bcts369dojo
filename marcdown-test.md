@@ -46,7 +46,7 @@ https://github.com/
 [GitHub](https://gist.github.com/bcts369/GitHub)
 
 ***
-**ＯＫです** 👍
+**ＯＫです**:+1:
 ***
 
  [ x ] 完了項目  
