@@ -16,8 +16,6 @@ func (c *Comment) GetComment() string {
     return "some comment"
 }
 ```
-
-***
 - リスト項目２
 ``` go
 func  main(){
