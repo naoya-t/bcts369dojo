@@ -33,7 +33,7 @@ func (c * Comment) GetComment() (comment string){
 \*you-should-be-gopher*
 
 ***
-~~取り消し線&nbsp(GFM記法)~~
+~~取り消し線&nbsp;(GFM記法)~~
 ***
 
 GitHub  
