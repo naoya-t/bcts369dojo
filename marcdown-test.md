@@ -41,7 +41,7 @@ https://github.com/
 
 [GitHub](https://github.com/)
 
-次は外部参照リンクを使って記述すること
+次は外部参照リンクを使って記述すること。
 
 [GitHub](https://gist.github.com/bcts369/GitHub)
 
