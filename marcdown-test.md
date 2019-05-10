@@ -18,11 +18,11 @@ func (c *Comment) GetComment() string {
 ```
 - リスト項目２
 ``` go
-func  main(){
-    FMT。 PrintIn("こんにちは")
+func main(){
+    fmt.PrintIn("Hello")
 }
 
-func  (c * コメント)GetComment()(コメント 文字列){
+func  (c * Comment)GetComment()(comment string){
     comment = " some comment "
      return
 }
