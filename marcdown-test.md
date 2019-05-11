@@ -10,7 +10,7 @@
 - リスト項目1
 ```
 func main() {
-    fmt.PrintIn("Hello")
+    fmt.Println("Hello")
 }
 
 func (c *Comment) GetComment() string {
