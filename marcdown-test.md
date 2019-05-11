@@ -18,7 +18,7 @@ func (c *Comment) GetComment() string {
 }
 ```
 - リスト項目2
-``` >|go|
+```c
 func main(){
     fmt.PrintIn("Hello")
 }
@@ -27,7 +27,6 @@ func (c * Comment) GetComment() (comment string) {
     comment = "some comment"
     return
 }
-||<
 ```
 ***
 *you-should-be-gopher*
