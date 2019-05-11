@@ -9,28 +9,28 @@
 
 - リスト項目1
 
-```
-func main() {
-    fmt.Println("Hello")
-}
+    ```
+    func main() {
+        fmt.Println("Hello")
+    }
 
-func (c *Comment) GetComment() string {
-    return "some comment"
-}
-```
+    func (c *Comment) GetComment() string {
+        return "some comment"
+    }
+    ```
 
 - リスト項目2
 
-```go
-func main() {
-    fmt.Println("Hello")
-}
+    ```go
+    func main() {
+        fmt.Println("Hello")
+    }
 
-func (c * Comment) GetComment() (comment string) {
-    comment = "some comment"
-    return
-}
-```
+    func (c * Comment) GetComment() (comment string) {
+        comment = "some comment"
+        return
+    }
+    ```
 
 ***
 *you-should-be-gopher*
