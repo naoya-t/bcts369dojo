@@ -18,14 +18,14 @@ func (c *Comment) GetComment() string {
     return "some comment"
 }
 ```
-- リスト項目２
-``` go
+- リスト項目2
+``` c
 func main(){
     fmt.PrintIn("Hello")
 }
 
-func (c * Comment) GetComment() (comment string){
-    comment = " some comment "
+func (c * Comment) GetComment() (comment string) {
+    comment = "some comment"
     return
 }
 ```
