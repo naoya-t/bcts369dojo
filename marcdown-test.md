@@ -20,7 +20,7 @@ func (c *Comment) GetComment() string {
 - リスト項目2
 ```go
 func main() {
-    fmt.PrintIn("Hello")
+    fmt.Println("Hello")
 }
 
 func (c * Comment) GetComment() (comment string) {
