@@ -8,6 +8,7 @@
 ***
 
 - リスト項目1
+
 ```
 func main() {
     fmt.Println("Hello")
@@ -17,7 +18,9 @@ func (c *Comment) GetComment() string {
     return "some comment"
 }
 ```
+
 - リスト項目2
+
 ```go
 func main() {
     fmt.Println("Hello")
@@ -28,6 +31,7 @@ func (c * Comment) GetComment() (comment string) {
     return
 }
 ```
+
 ***
 *you-should-be-gopher*
 
