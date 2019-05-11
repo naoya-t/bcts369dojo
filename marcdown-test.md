@@ -18,7 +18,7 @@ func (c *Comment) GetComment() string {
 }
 ```
 - リスト項目2
-```c
+```go
 func main(){
     fmt.PrintIn("Hello")
 }
